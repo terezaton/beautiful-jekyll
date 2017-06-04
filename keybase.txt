@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/franklinbaldo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://baldoequeiroz.com.br
+  * I am franklinbaldo (https://keybase.io/franklinbaldo) on keybase.
+  * I have a public key with fingerprint A362 99FC CB1B F7AF B55B  0171 F8B9 CDF7 83FA F7D7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014ed3af21ce9e83f2b1d9237358e2724fbaeb2791bf5ac3e61b4e4f3bbcb966640a",
+            "fingerprint": "a36299fccb1bf7afb55b0171f8b9cdf783faf7d7",
+            "host": "keybase.io",
+            "key_id": "f8b9cdf783faf7d7",
+            "kid": "01014ed3af21ce9e83f2b1d9237358e2724fbaeb2791bf5ac3e61b4e4f3bbcb966640a",
+            "uid": "3e56d05f7a09daece705719f57deb419",
+            "username": "franklinbaldo"
+        },
+        "service": {
+            "hostname": "baldoequeiroz.com.br",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490703306,
+    "expire_in": 157680000,
+    "prev": "bb00770f318ac3bdc55c4ed331830b5881a7931e2eeb12c0e5afb69456f2bab2",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMI0AnicrVJbSBVBGD6mdjEDCQuyKFooqUxmL7Ozeyq6SAUZZUlSVJxmdmdPq8fd
+0549Woah3Qi6+GDWQxlRp8RumBSJUR1TEW9QIl2koqSHKCKwspfCZg/11mPzMsz8
+3/f93//NdExJ9qUlDZcU3ekqP7o0qbftctS3daiwZz9HbH0f59/PldDERkM6jbiB
+ElPn/BzgAS9RXcSGwGtUpYpoCITXVUFEIlSogATJIJgSAak8MSDWRCrzRKKSIRKi
+EVWWZQlgLoczTCtInbBjWi6TxaIsqKqhaYSxEDYIhATwiDcUomq6gVgbbCAdMeJu
+O+IxmDmCIzTXtNkdOwQS9v6B/8++owk5kUJZB5BZBaqOqUYRgIhXDYh0SiRe9YAR
+6li4lHquHGyVhEyL4JBuc5U5HCuVmRr10vXG+QNLlOmeKDUduyJXs0tzicOEwo7t
+2podYojdrhv2ewLuvrDHKKck8EcrQExLZ5kyQhl1IqZtcX6eITXX9MR5SQUIiCKQ
+czi6N2w6NGB6CIhkBbDltaFlngkCAELAEHmFhUB0DULNC46dRUCgovAYqSJPBUoJ
+L2iAQvZasipBmQWKicB50+2xbM4vMZs4yCQjZtDCbtShXOXj+I4UX1Kab3zqOO+v
++dImZfz9gdMyJowVDsSKlr+e2v+gM3X9V6F14iXryrxg1eKuJ+dCNdainZvbPn5a
+M19eUrzrweSTsZRqeKwyfuZ1cdakofoTgy2za7Yo7+uuLxh8u4LWJzc8zx/tzX6x
+IfPh2W+1KwurmruP29n6NX3Wy2nx2Ag89aMo/di4iqrOmTkHB5qfX3XqD8Xy3hV0
+NS06MONselfmkLQ9a6TuV/vabPdD35era6pfNV1s62mt3VZ86036pvic+6Wr+2p+
+rqh7Vn27bsG6gU2rNo48jQ7mF0B///mmG9/B5/zp92YWtU+eItya2hh/M9zdmLUw
+0rDt0cMkEcRKn8494hutbMlblpmb/PXw3ZvtHdPD6PTYhd8uWEz4
+=9Bb8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/franklinbaldo
+
+==================================================================
