@@ -15,7 +15,7 @@ redirect_from:
 subtitle:
 bigimg:
 description:
-image: Swanger_vrou2-224x300.jpg
+image: /img/Swanger_vrou2-224x300.jpg
 author: Arthur Antunes Gomes Queiroz
 ---
 
