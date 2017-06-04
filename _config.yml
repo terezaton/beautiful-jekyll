@@ -28,8 +28,8 @@ navbar-links:
   Fale conosco: chat
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Logo_lateral_Baldoequeiroz.svg"
-logo: "/img/Logo_lateral_Baldoequeiroz.svg"
+avatar: "/img/logo.svg"
+logo: "/img/logo.svg"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
@@ -134,7 +134,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
