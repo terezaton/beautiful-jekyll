@@ -93,7 +93,7 @@ disqus: baldoequeiroz
 google_analytics: UA-77711671-1
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-M6BFQ8K"
 
 # Facebook App ID
 fb_app_id: '1608428049463372'
@@ -114,7 +114,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/page:num"
 
 kramdown:
   input: GFM
