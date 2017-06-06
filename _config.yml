@@ -83,7 +83,6 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "baldoequeirozadvogados.com.br"  # eg. "deanattali.com/beautiful-jekyll"
-url-pretty: www.baldoequeiroz.com.br
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -114,7 +113,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/page:num"
+paginate_path: "blog/page:num"
 
 kramdown:
   input: GFM
