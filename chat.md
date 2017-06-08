@@ -6,9 +6,8 @@ use-site-title: true
 ---
 
 
-
-            <section id="content-section1" class="content-section1">
-                <div class="container">
+<section id="content-section1" class="content-section1">
+           <div class="container">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="text-center single-content">
