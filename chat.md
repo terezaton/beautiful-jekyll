@@ -19,13 +19,10 @@ use-site-title: true
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-  </div>
-</div>
-
-# Ou use o nosso chat
-<div id='tawk_5819ff66e808d60cd077351f'></div>
+					<div class="col-md-4">
+					<div href="https://api.whatsapp.com/send?phone=5569984154343" class="thumbnail">
+					
+					<div id='tawk_5819ff66e808d60cd077351f'></div>
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date(); Tawk_API.embedded='tawk_5819ff66e808d60cd077351f';
@@ -38,3 +35,12 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);})();
 </script>
 <!--End of Tawk.to Script-->
+
+					</div>
+				</div>
+			</div>
+		</div>
+  </div>
+</div>
+
+# Ou use o nosso chat
