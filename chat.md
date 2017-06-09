@@ -16,7 +16,6 @@ use-site-title: true
 	 	<div class="col">
 		    <h3>Ou</h3>
 		</div>
-
 		<div class="col" id='tawk_5819ff66e808d60cd077351f'></div>
 		<!--Start of Tawk.to Script-->
 		<script type="text/javascript">
